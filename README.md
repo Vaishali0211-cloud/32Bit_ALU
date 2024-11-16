@@ -59,6 +59,8 @@ source /cadence/install/cshrc (mention the path of the tools)
 (The path of cshrc could vary depending on the installation destination)
       
 After this you can see the window like below 
+![Screenshot 2024-11-16 143605](https://github.com/user-attachments/assets/7aaddaef-64de-4c04-8c2f-5ea814021fbb)
+
 
 ### Fig 2: Invoke the Cadence Environment
 
@@ -73,11 +75,16 @@ or
 
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
 
+![Screenshot 2024-11-16 144434](https://github.com/user-attachments/assets/545e008e-9206-4864-8ab8-daa3a0489bd6)
+
+
 ### Fig 3: Setting Multi-step simulation
 
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure 
 
 Click the cds.lib file and save the file by clicking on Save option 
+![Screenshot 2024-11-16 144559](https://github.com/user-attachments/assets/26845318-88d0-4feb-8e70-f9365e08b426)
+
 
 ### Fig 4:cds.lib file Creation
 
@@ -102,6 +109,7 @@ Worklib is the directory where all the compiled codes are stored while Snapshot 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
 ### Fig 6: Nclaunch Window
+
 
 ## Step 1: Compilation:
 
@@ -176,8 +184,11 @@ Steps for simulation – Run the simulation command with simulator options
 ## Fig 9: Design Browser window for simulation
 
 ## Fig 10:Simulation Waveform Window
+![Screenshot 2024-11-16 134213](https://github.com/user-attachments/assets/a8e82db2-8912-4abf-b9ae-e5dd73965c53)
+
 
 ## Fig 11:Simulation Waveform Window
+![Screenshot 2024-11-16 134230](https://github.com/user-attachments/assets/3fbd44e6-2f26-428e-a9fc-d09d03f206f1)
 
 
 
